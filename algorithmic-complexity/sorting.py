@@ -11,7 +11,8 @@ def insertion_sort(l):
             j -= 1
         l[j + 1] = key
 
-l = [11, 2, 26, 18, 23]
+
+l = [64, 34, 25, 12, 22, 11, 90]
 
 insertion_sort(l)
 
